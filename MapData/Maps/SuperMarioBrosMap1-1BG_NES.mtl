@@ -1,0 +1,395 @@
+newmtl 000
+map_Kd 000.png
+map_d 000_alpha.png
+illum 2
+
+newmtl 225
+map_Kd 225.png
+map_d 225_alpha.png
+illum 2
+
+newmtl 224
+map_Kd 224.png
+map_d 224_alpha.png
+illum 2
+
+newmtl 226
+map_Kd 226.png
+map_d 226_alpha.png
+illum 2
+
+newmtl 227
+map_Kd 227.png
+map_d 227_alpha.png
+illum 2
+
+newmtl 005
+map_Kd 005.png
+map_d 005_alpha.png
+illum 2
+
+newmtl 228
+map_Kd 228.png
+map_d 228_alpha.png
+illum 2
+
+newmtl 229
+map_Kd 229.png
+map_d 229_alpha.png
+illum 2
+
+newmtl 230
+map_Kd 230.png
+map_d 230_alpha.png
+illum 2
+
+newmtl 231
+map_Kd 231.png
+map_d 231_alpha.png
+illum 2
+
+newmtl 232
+map_Kd 232.png
+map_d 232_alpha.png
+illum 2
+
+newmtl 011
+map_Kd 011.png
+map_d 011_alpha.png
+illum 2
+
+newmtl 233
+map_Kd 233.png
+map_d 233_alpha.png
+illum 2
+
+newmtl 234
+map_Kd 234.png
+map_d 234_alpha.png
+illum 2
+
+newmtl 235
+map_Kd 235.png
+map_d 235_alpha.png
+illum 2
+
+newmtl 015
+map_Kd 015.png
+map_d 015_alpha.png
+illum 2
+
+newmtl 236
+map_Kd 236.png
+map_d 236_alpha.png
+illum 2
+
+newmtl 237
+map_Kd 237.png
+map_d 237_alpha.png
+illum 2
+
+newmtl 238
+map_Kd 238.png
+map_d 238_alpha.png
+illum 2
+
+newmtl 239
+map_Kd 239.png
+map_d 239_alpha.png
+illum 2
+
+newmtl 240
+map_Kd 240.png
+map_d 240_alpha.png
+illum 2
+
+newmtl 241
+map_Kd 241.png
+map_d 241_alpha.png
+illum 2
+
+newmtl 242
+map_Kd 242.png
+map_d 242_alpha.png
+illum 2
+
+newmtl 243
+map_Kd 243.png
+map_d 243_alpha.png
+illum 2
+
+newmtl 244
+map_Kd 244.png
+map_d 244_alpha.png
+illum 2
+
+newmtl 245
+map_Kd 245.png
+map_d 245_alpha.png
+illum 2
+
+newmtl 246
+map_Kd 246.png
+map_d 246_alpha.png
+illum 2
+
+newmtl 247
+map_Kd 247.png
+map_d 247_alpha.png
+illum 2
+
+newmtl 248
+map_Kd 248.png
+map_d 248_alpha.png
+illum 2
+
+newmtl 249
+map_Kd 249.png
+map_d 249_alpha.png
+illum 2
+
+newmtl 250
+map_Kd 250.png
+map_d 250_alpha.png
+illum 2
+
+newmtl 251
+map_Kd 251.png
+map_d 251_alpha.png
+illum 2
+
+newmtl 252
+map_Kd 252.png
+map_d 252_alpha.png
+illum 2
+
+newmtl 253
+map_Kd 253.png
+map_d 253_alpha.png
+illum 2
+
+newmtl 254
+map_Kd 254.png
+map_d 254_alpha.png
+illum 2
+
+newmtl 255
+map_Kd 255.png
+map_d 255_alpha.png
+illum 2
+
+newmtl 256
+map_Kd 256.png
+map_d 256_alpha.png
+illum 2
+
+newmtl 257
+map_Kd 257.png
+map_d 257_alpha.png
+illum 2
+
+newmtl 258
+map_Kd 258.png
+map_d 258_alpha.png
+illum 2
+
+newmtl 259
+map_Kd 259.png
+map_d 259_alpha.png
+illum 2
+
+newmtl 088
+map_Kd 088.png
+map_d 088_alpha.png
+illum 2
+
+newmtl 260
+map_Kd 260.png
+map_d 260_alpha.png
+illum 2
+
+newmtl 261
+map_Kd 261.png
+map_d 261_alpha.png
+illum 2
+
+newmtl 262
+map_Kd 262.png
+map_d 262_alpha.png
+illum 2
+
+newmtl 263
+map_Kd 263.png
+map_d 263_alpha.png
+illum 2
+
+newmtl 264
+map_Kd 264.png
+map_d 264_alpha.png
+illum 2
+
+newmtl 265
+map_Kd 265.png
+map_d 265_alpha.png
+illum 2
+
+newmtl 266
+map_Kd 266.png
+map_d 266_alpha.png
+illum 2
+
+newmtl 267
+map_Kd 267.png
+map_d 267_alpha.png
+illum 2
+
+newmtl 097
+map_Kd 097.png
+map_d 097_alpha.png
+illum 2
+
+newmtl 268
+map_Kd 268.png
+map_d 268_alpha.png
+illum 2
+
+newmtl 269
+map_Kd 269.png
+map_d 269_alpha.png
+illum 2
+
+newmtl 270
+map_Kd 270.png
+map_d 270_alpha.png
+illum 2
+
+newmtl 271
+map_Kd 271.png
+map_d 271_alpha.png
+illum 2
+
+newmtl 272
+map_Kd 272.png
+map_d 272_alpha.png
+illum 2
+
+newmtl 273
+map_Kd 273.png
+map_d 273_alpha.png
+illum 2
+
+newmtl 274
+map_Kd 274.png
+map_d 274_alpha.png
+illum 2
+
+newmtl 275
+map_Kd 275.png
+map_d 275_alpha.png
+illum 2
+
+newmtl 276
+map_Kd 276.png
+map_d 276_alpha.png
+illum 2
+
+newmtl 277
+map_Kd 277.png
+map_d 277_alpha.png
+illum 2
+
+newmtl 278
+map_Kd 278.png
+map_d 278_alpha.png
+illum 2
+
+newmtl 279
+map_Kd 279.png
+map_d 279_alpha.png
+illum 2
+
+newmtl 280
+map_Kd 280.png
+map_d 280_alpha.png
+illum 2
+
+newmtl 281
+map_Kd 281.png
+map_d 281_alpha.png
+illum 2
+
+newmtl 282
+map_Kd 282.png
+map_d 282_alpha.png
+illum 2
+
+newmtl 283
+map_Kd 283.png
+map_d 283_alpha.png
+illum 2
+
+newmtl 284
+map_Kd 284.png
+map_d 284_alpha.png
+illum 2
+
+newmtl 285
+map_Kd 285.png
+map_d 285_alpha.png
+illum 2
+
+newmtl 286
+map_Kd 286.png
+map_d 286_alpha.png
+illum 2
+
+newmtl 287
+map_Kd 287.png
+map_d 287_alpha.png
+illum 2
+
+newmtl 288
+map_Kd 288.png
+map_d 288_alpha.png
+illum 2
+
+newmtl 289
+map_Kd 289.png
+map_d 289_alpha.png
+illum 2
+
+newmtl 290
+map_Kd 290.png
+map_d 290_alpha.png
+illum 2
+
+newmtl 291
+map_Kd 291.png
+map_d 291_alpha.png
+illum 2
+
+newmtl 292
+map_Kd 292.png
+map_d 292_alpha.png
+illum 2
+
+newmtl 293
+map_Kd 293.png
+map_d 293_alpha.png
+illum 2
+
+newmtl 294
+map_Kd 294.png
+map_d 294_alpha.png
+illum 2
+
+newmtl 295
+map_Kd 295.png
+map_d 295_alpha.png
+illum 2
+
+newmtl 296
+map_Kd 296.png
+map_d 296_alpha.png
+illum 2
+
